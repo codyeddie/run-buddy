@@ -10,4 +10,4 @@ https://codyeddie.github.io/run-buddy/
 ## Contribution 
 Made with &hearts; by Cody Eddie
 
-## ;copy& Run Buddy, Inc 
+## &copy; Run Buddy, Inc 
